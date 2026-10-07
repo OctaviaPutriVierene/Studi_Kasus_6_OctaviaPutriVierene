@@ -1,8 +1,8 @@
 # Studi_Kasus_6_OctaviaPutriVierene
 
-Nama   : Octavia Putri Vierene
-Kelas  : A
-NIM    : 2609116012
-Tugas  : Nim Genap
+Nama   : Octavia Putri Vierene<br>
+Kelas  : A<br>
+NIM    : 2609116012<br>
+Tugas  : Nim Genap<br>
 
 Penjelasan:<br>
