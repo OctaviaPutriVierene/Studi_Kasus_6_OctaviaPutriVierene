@@ -1,0 +1,26 @@
+[
+    {
+        "kode": "BN01",
+        "nama produk": "Indomie",
+        "stok": "25 dus",
+        "harga": "Rp.125.000"
+    },
+    {
+        "kode": "BN02",
+        "nama produk": "Toppo",
+        "stok": "25 dus",
+        "harga": "Rp.23.000"
+    },
+    {
+        "kode": "BN03",
+        "nama produk": "Buavita",
+        "stok": "15 dus",
+        "harga": "Rp.155.000"
+    },
+    {
+        "kode": "BN04",
+        "nama produk": "Milo",
+        "stok": "5",
+        "harga": "Rp.145.000"
+    }
+]
